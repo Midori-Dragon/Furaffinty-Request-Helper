@@ -2,7 +2,7 @@
 // @name        Furaffinity-Request-Helper
 // @namespace   Violentmonkey Scripts
 // @grant       none
-// @version     1.0.2
+// @version     1.0.3
 // @author      Midori Dragon
 // @description Helper Library to simplyfy requests to Furaffinity
 // @icon        https://www.furaffinity.net/themes/beta/img/banners/fa_logo.png?v2
